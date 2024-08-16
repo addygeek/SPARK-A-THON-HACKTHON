@@ -1,5 +1,5 @@
 # Adaptive Retail: Bridging Online and Offline Shopping Experiences
-
+## Solution Video: https://youtu.be/xYFl6-O58l8
 ## Overview
 Welcome to **Adaptive Retail**, a cutting-edge solution designed to unify and enhance the shopping experience by seamlessly integrating the best aspects of both online and offline retail. As the retail landscape evolves, customers increasingly expect a seamless, personalized, and convenient shopping experience, whether they are browsing online, visiting a physical store, or using their mobile devices. Adaptive Retail is designed to meet these expectations by leveraging emerging technologies such as Augmented Reality (AR), Virtual Reality (VR), AI-driven personalization, and smart checkout solutions.
 
